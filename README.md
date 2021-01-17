@@ -8,6 +8,11 @@ There are general knowledge courses and project courses.
 
 **Project courses** are the real learning process. Learning by doing is the only way to learn.
 
+If you are interested in the philosophy of the creation of this curriculum, I wrote an article about it:
+
+[How I Designed My Own Full-Stack ML Engineering Degree](https://towardsdatascience.com/how-i-designed-my-own-full-stack-ml-engineering-degree-297a31e3a3b2?sk=fe0ac0cc081b3e4734734a0e4f85f637)
+
+
 ## General knowledge courses
 
 #### CS101. Computer architectures: general intro
@@ -48,6 +53,11 @@ There are general knowledge courses and project courses.
 #### CS406 DevOps with Docker
 - [Udemy Docker course](https://www.udemy.com/course/learn-docker/)
 - [Deploy ML/DL using Docker](https://youtu.be/0qG_0CPQhpg)
+
+#### **CS501 Deep Learning with PyTorch by Yann LeCun & Alfredo Canziani: knowledge**
+- **Highly recommended deep learning course!!**
+- [Course site](https://atcold.github.io/pytorch-Deep-Learning/)
+- [Youtube playlist](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
 #### CS503 [fastai: Computation Linear Algebra by Rachel Thomas](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
@@ -117,10 +127,15 @@ There are general knowledge courses and project courses.
 #### CS402 Full-Stack Web Development, ReactJS
 - **Udemy [the complete junior to senior web developer roadmap](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)**
 
-#### CS404. AWS Services
+#### CS404 AWS Services
 - Book: **The Good Parts of AWS** by Daniel Vassallo
 
-#### CS501 Deep Learning with FastAI & Pytorch: projects
+#### CS407 iOS Development with Swift and SpriteKit
+- Optional course for mobile game development
+- youtube video: https://youtu.be/467Doas5J6I
+- Project: A sound game for instruments
+
+#### CS500 Deep Learning with FastAI & Pytorch: projects
 - **Course v4: [https://course.fast.ai/](https://course.fast.ai/)**
 - **[fastbook](https://github.com/fastai/fastbook)**
   - **Document all answers to questionnaires**
